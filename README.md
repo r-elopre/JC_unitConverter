@@ -1,7 +1,7 @@
 This app implements 
-the by keyword
-state to our outlined textfield
-iexpanded for dropdown menu and collapse it
+- the by keyword
+- state to our outlined textfield
+- iexpanded for dropdown menu and collapse it
 
 
 how the app works?
